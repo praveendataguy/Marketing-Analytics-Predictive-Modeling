@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+# Ignore the virtual environment
+.venv/
+venv/
+
+# Ignore your data folder (if the CSVs are large)
+data/
+
+# Ignore Python's internal cache
+__pycache__/
+*.py[c]
